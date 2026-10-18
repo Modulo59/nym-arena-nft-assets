@@ -1,0 +1,21 @@
+{
+  "name": "Nym Arena Beta Participation",
+  "symbol": "CS-BETA",
+  "description": "Participation collectible for an approved Nym Arena beta tester, from The Cipher Set. Solana Devnet demo asset, issued for taking part in the beta, independent of game completion. No monetary value. No effect on Second Name credentials or Arena reputation. Wallet ownership on Solana is public.",
+  "image": "https://raw.githubusercontent.com/Modulo59/nym-arena-nft-assets/69143d8565fc8422ad19044511df88f5af774082/devnet/2026-10-demo/beta-participation/nym-beta-participation-1024.png",
+  "attributes": [
+    { "trait_type": "Series", "value": "The Cipher Set" },
+    { "trait_type": "Type", "value": "Beta Participation" },
+    { "trait_type": "Network", "value": "Solana Devnet" },
+    { "trait_type": "Edition", "value": "Beta Demo" },
+    { "trait_type": "Date", "value": "Oct 2026" },
+    { "trait_type": "Game Completion Required", "value": "No" },
+    { "trait_type": "Reputation Effect", "value": "None" }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Modulo59/nym-arena-nft-assets/69143d8565fc8422ad19044511df88f5af774082/devnet/2026-10-demo/beta-participation/nym-beta-participation-1024.png", "type": "image/png" }
+    ]
+  }
+}
